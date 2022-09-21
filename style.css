@@ -1,3 +1,9 @@
+
+body{
+	background-image:url("https://image.shutterstock.com/image-photo/hand-turns-dice-changes-word-600w-1754045591.jpg");
+	background-size: cover;
+	
+}
 .pho{
 	display: flex;
 	justify-content: space-around;
